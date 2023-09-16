@@ -97,3 +97,9 @@ if ($action=="otp") {
     header("LOCATION: /app/OTP");
   }
 }
+if ($action == "logout") {
+  if (isset($_SESSION['login'])) {
+      unset($_SESSION['login']);
+      header("LOCATION: /");
+  }
+}

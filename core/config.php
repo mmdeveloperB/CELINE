@@ -17,6 +17,8 @@ $session = $_SESSION['login'];
 $get = mysqli_query($conn,"SELECT * FROM user WHERE `Username`='$session' OR `Phone`='$session'");
 $fetch = mysqli_fetch_array($get);
 $username = $fetch['Username'];
+$name = $fetch['Name'];
 $User_ID = $fetch['User_ID'];
 $phone = $fetch['Phone'];
+
 ?>

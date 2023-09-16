@@ -1,6 +1,13 @@
 <?php
 require("./core/config.php");
 ?>
+<?php
+if (isset($_SESSION['login'])) {
+  header("LOCATION: /app");
+} else {
+}
+
+?>
 <html lang="en">
 
 <head>

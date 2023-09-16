@@ -1,22 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="rtl">
 
 <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Skydash Admin</title>
+  <title>CELINE - 404</title>
   <!-- plugins:css -->
-  <link rel="stylesheet" href="../../vendors/feather/feather.css">
-  <link rel="stylesheet" href="../../vendors/ti-icons/css/themify-icons.css">
-  <link rel="stylesheet" href="../../vendors/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="/app/vendors/feather/feather.css">
+  <link rel="stylesheet" href="/app/vendors/ti-icons/css/themify-icons.css">
+  <link rel="stylesheet" href="/app/vendors/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="/assets/styles/style.css">
   <!-- endinject -->
   <!-- Plugin css for this page -->
   <!-- End plugin css for this page -->
   <!-- inject:css -->
-  <link rel="stylesheet" href="../../css/vertical-layout-light/style.css">
+  <link rel="stylesheet" href="/app/css/vertical-layout-light/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="../../images/favicon.png" />
+  <link rel="shortcut icon" href="/app/images/favicon.png" />
 </head>
 
 <body>
@@ -30,18 +31,18 @@
                 <h1 class="display-1 mb-0">404</h1>
               </div>
               <div class="col-lg-6 error-page-divider text-lg-left pl-lg-4">
-                <h2>SORRY!</h2>
-                <h3 class="font-weight-light">The page you’re looking for was not found.</h3>
+                <h2>متاسفم!</h2>
+                <h3 class="font-weight-light">صفحه مورد نظر رو نتونستیم پیدا کنیم.</h3>
               </div>
             </div>
             <div class="row mt-5">
               <div class="col-12 text-center mt-xl-2">
-                <a class="text-white font-weight-medium" href="../../index.html">Back to home</a>
+                <a class="text-white font-weight-medium" href="/">برگشت به صفحه اصلی</a>
               </div>
             </div>
             <div class="row mt-5">
               <div class="col-12 mt-xl-2">
-                <p class="text-white font-weight-medium text-center">Copyright &copy; 2021  All rights reserved.</p>
+                <p class="text-white font-weight-medium text-center">Copyright &copy; 2023  All rights reserved</p>
               </div>
             </div>
           </div>
@@ -53,16 +54,16 @@
   </div>
   <!-- container-scroller -->
   <!-- plugins:js -->
-  <script src="../../vendors/js/vendor.bundle.base.js"></script>
+  <script src="/app/vendors/js/vendor.bundle.base.js"></script>
   <!-- endinject -->
   <!-- Plugin js for this page -->
   <!-- End plugin js for this page -->
   <!-- inject:js -->
-  <script src="../../js/off-canvas.js"></script>
-  <script src="../../js/hoverable-collapse.js"></script>
-  <script src="../../js/template.js"></script>
-  <script src="../../js/settings.js"></script>
-  <script src="../../js/todolist.js"></script>
+  <script src="/app/js/off-canvas.js"></script>
+  <script src="/app/js/hoverable-collapse.js"></script>
+  <script src="/app/js/template.js"></script>
+  <script src="/app/js/settings.js"></script>
+  <script src="/app/js/todolist.js"></script>
   <!-- endinject -->
 </body>
 
